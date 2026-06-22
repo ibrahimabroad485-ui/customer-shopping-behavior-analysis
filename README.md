@@ -356,7 +356,7 @@ README.md
 
 **Ibrahim Jamil**
 
-Data Science & Computer Science · Luther College · Class of 2028
+Data Science & Computer Science · Luther College · Class of 2029
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/ibrahim-jamil-5784a9395/?skipRedirect=true))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/ibrahimabroad485-ui))
