@@ -301,28 +301,23 @@ Built an interactive dashboard with **6 slicers** and **6 chart types** for non-
 ## 📁 Repository Structure
 
 ```
-customer-shopping-behavior-analysis/
-│
-├── 📂 data/
-│   └── customer_shopping_behavior.csv       # Raw dataset (3,900 records)
-│
-├── 📂 python/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb  # Full EDA & cleaning notebook
-│
-├── 📂 sql/
-│   └── SQL-Queries.sql                      # All 10 business queries
-│
-├── 📂 dashboard/
+📂 dashboard/
 │   ├── Customer_Behavior_Dashboard.pbix     # Power BI dashboard file
 │   └── dashboard-image.png                  # Dashboard preview
-│
-├── 📂 report/
-│   └── Customer_Shopping_Behavior_Report.pdf  # Full analytical report (17 pages)
-│
-├── 📂 presentation/
+📂 data/
+│   └── customer_shopping_behavior.csv       # Raw dataset (3,900 records)
+📂 presentation/
 │   └── Customer_Shopping_Behavior_Presentation.pptx  # Slide deck (14 slides)
-│
-└── README.md
+📂 python/
+│   └── Customer_Shopping_Behavior_Analysis.ipynb  # Full EDA & cleaning notebook
+📂 report/
+│   └── Customer_Shopping_Behavior_Report.pdf  # Full analytical report
+📂 sql/
+│   └── SQL-Queries.sql                      # All 10 business queries
+
+LICENSE
+README.md
+
 ```
 
 ---
@@ -363,8 +358,8 @@ customer-shopping-behavior-analysis/
 
 Data Science & Computer Science · Luther College · Class of 2028
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/ibrahim-jamil-5784a9395/?skipRedirect=true))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/ibrahimabroad485-ui))
 
 *Sophomore targeting Data Analytics Internship — Summer 2027*
 
